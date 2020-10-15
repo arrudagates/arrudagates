@@ -8,7 +8,10 @@
     font-style: normal;
 }</style>
     <div style="background-color: #000814" xmlns="http://www.w3.org/1999/xhtml">
-      <span style="font-family: "alliance",mono,sans-serif !important;background: linear-gradient(87.54deg, #9867F0 -6.8%, #ED4E50 84.14%);-webkit-background-clip: text;-webkit-text-fill-color: transparent;">
+      <span style="font-family: 'alliance';
+    src: url('../fonts/alliance-no-2-medium.woff2') format('woff2'),
+         url('../fonts/alliance-no-2-medium.woff') format('woff');
+     background: linear-gradient(87.54deg, #9867F0 -6.8%, #ED4E50 84.14%);-webkit-background-clip: text;-webkit-text-fill-color: transparent;">
       Welcome To My Profile!
       </span>
     </div>
