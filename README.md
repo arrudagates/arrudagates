@@ -1,3 +1,5 @@
+OUTDATED, NEW README ON THE WAY!
+
 ![](0t.png)
 [![](1t.png)](https://www.linkedin.com/in/gabriel-facco-de-arruda-00880787/)
 [![](2t.png)](https://github.com/arrudagates/neoplayer)
