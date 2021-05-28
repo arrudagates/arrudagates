@@ -1,8 +1,7 @@
-OUTDATED, NEW README ON THE WAY!
-
-![](0t.png)
-[![](1t.png)](https://www.linkedin.com/in/gabriel-facco-de-arruda-00880787/)
-[![](2t.png)](https://github.com/arrudagates/neoplayer)
-[![](3t.png)](https://penguin.ga)
-[![](4t.png)](https://stackoverflow.com/users/8927788/gabriel-arruda)
-![](5t.png)
+![](n0t.png)
+![](n1t.png)
+[![](n2t.png)](https://www.linkedin.com/in/gabriel-facco-de-arruda-00880787/)
+[![](n3t.png)](https://github.com/arrudagates/PTBRi)
+[![](n4t.png)](https://github.com/arrudagates/stargate_randomizer)
+[![](n5t.png)](https://github.com/arrudagates/neoplayer)
+![](n6t.png)
